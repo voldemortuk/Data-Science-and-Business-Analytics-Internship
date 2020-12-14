@@ -29,26 +29,14 @@ The dataset here has 34 different parameters , so we can’t use simple linear r
 
     Step 3 : Define X and y .
 
-    Step 4 : Use train test split from sklearn.
+    Step 4 :  lets train our model and fit the dataset.
 
-    Step 5 : lets train our model and fit the dataset.
-
-    Step 6 : Now check the accuracy of the model.
+    Step 6 : Now check the accuracy of the model and evaluate it
 
     Step 7 : Now lets you test how well your model fits the data set.
 
     Step 8 : Finally get a full summary of your model.
     
      
-## MODEL SUMMARY    
 
-![linear regression](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/linear2.png)
-
-![linear regression](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/linear3.png)
-
-![linear regression](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/linear4.png)
-
-![linear regression](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/linear5.png)
-
-![linear regression](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/linear6.png)
 
