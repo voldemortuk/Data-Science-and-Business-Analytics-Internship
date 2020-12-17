@@ -19,7 +19,7 @@ We know that the equation of a straight line is basically:
 ![linear regression](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/linear%20regression.png)
 
 
-The dataset here has 34 different parameters , so we can’t use simple linear regression, So we choose to apply multiple Multiple Linear Regression.
+The dataset here has 2 different parameters , so we can use simple linear regression
 
 ![linear regression](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/linear1.png)
 
