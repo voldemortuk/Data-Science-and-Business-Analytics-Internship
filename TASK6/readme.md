@@ -11,7 +11,7 @@ A decision tree is a flowchart-like structure in which each internal node repres
 
 
 The dataset here has 6 different parameters , so we can use decision tree to feed any new/test data to this classifer and it would be able to predict the right class accordingly.
-![linear regression](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/linear1.png)
+
 
 
 ### STEPS INVOLVED IN TRAINING THE MODEL :
