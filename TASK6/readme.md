@@ -1,26 +1,16 @@
-# TASK 6 
-![linear regression](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK1/Task1.png)
-# LINEAR REGRESSION
+# Task 6
+## Prediction using Decision Tree
+	•In this task we will use decision tree to make prediction and understand its working.!
+![decisiontree](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK6/Task6.png)
+# Decision Tree
 
-In statistics, linear regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables). The case of one explanatory variable is called simple linear regression.
-There are two types of supervised machine learning algorithms: Regression and classification. The former predicts continuous value outputs while the latter predicts discrete outputs
-
-
-The term “linearity” in algebra refers to a linear relationship between two or more variables. If we draw this relationship in a two-dimensional space (between two variables), we get a straight line.
-Linear regression performs the task to predict a dependent variable value (y) based on a given independent variable (x). So, this regression technique finds out a linear relationship between x (input) and y(output). Hence, the name is Linear Regression.
- 
-If we plot the independent variable (x) on the x-axis and dependent variable (y) on the y-axis, linear regression gives us a straight line that best fits the data points, as shown in the figure below.
-We know that the equation of a straight line is basically:
-
-### The equation of the line is :
-
-### Y= mx + b :  
-
-![linear regression](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/linear%20regression.png)
+A decision tree is a flowchart-like structure in which each internal node represents a "test" on an attribute (e.g. whether a coin flip comes up heads or tails), each branch represents the outcome of the test, and each leaf node represents a class label (decision taken after computing all attributes).
 
 
-The dataset here has 34 different parameters , so we can’t use simple linear regression, So we choose to apply multiple Multiple Linear Regression.
+![decisiontree](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK6/Decision-Trees-2.png)
 
+
+The dataset here has 6 different parameters , so we can use decision tree to feed any new/test data to this classifer and it would be able to predict the right class accordingly.
 ![linear regression](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/linear1.png)
 
 
@@ -37,6 +27,4 @@ The dataset here has 34 different parameters , so we can’t use simple linear r
 
     Step 7 : Now lets you test how well your model fits the data set.
 
-    Step 8 : Finally get a full summary of your model.
-    
-     
+    Step 8 : Finally get a full summary of your model using a tree.
