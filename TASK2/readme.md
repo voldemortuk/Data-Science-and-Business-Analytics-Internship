@@ -25,6 +25,7 @@ The entire training dataset is stored. When a prediction is required, the k-most
 
 ![knearest](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/knearest.png)
 ![knearest](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/k-nearest-neighbor-algorithm-for-machine-learning2.png)
+![knearest](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/knearest2.png)
 
 
 The dataset here has 6 different parameters , so we can use K nearest algorithm to feed any new/test data to this classifer and it would be able to predict the right class accordingly.
@@ -63,3 +64,4 @@ It is  one of  the simplest unsupervised  learning  algorithms  that  solve  the
     Step 8 : Now check the accuracy of the model and evaluate it
 
     Step 9 : Now lets you test how well your model fits the data set.
+![kmeans](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/kmeans2.png)
