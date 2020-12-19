@@ -14,8 +14,9 @@ It is a multiclass classification problem. The number of observations for each c
         Class
 
 ## Prediction using Using Unsupervised Learning
-	•In this task we will use K nearest algorithm to make prediction and understand its working.!
-![decisiontree](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK6/Task6.png)
+	•In this task we will use K nearest algorithm  and  K means Clusteringto make prediction and understand its working.!
+![unsupervisedlearning](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/Task2.png)
+
 # K nearest neighbour algorithm
 The k-Nearest Neighbors algorithm or KNN for short is a very simple technique.
 The entire training dataset is stored. When a prediction is required, the k-most similar records to a new record from the training dataset are then located. From these neighbors, a summarized prediction is made.
@@ -27,8 +28,6 @@ The entire training dataset is stored. When a prediction is required, the k-most
 
 The dataset here has 6 different parameters , so we can use K nearest algorithm to feed any new/test data to this classifer and it would be able to predict the right class accordingly.
 
-• In this task we will use K means Clustering to make prediction and understand its working.!
-![decisiontree](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK6/Task6.png)
 # K means Clustering 
 
 K-Means Clustering is an unsupervised machine learning algorithm. We graph the relationship between the number of clusters and Within Cluster Sum of Squares (WCSS) then we select the number of clusters where the change in WCSS begins to level off (elbow method).
