@@ -41,3 +41,4 @@ The dataset here has 6 different parameters , so we can use decision tree to fee
     Step 7 : Now lets you test how well your model fits the data set.
 
     Step 8 : Finally get a full summary of your model using a tree.
+![decisiontree](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK6/decisiontree1.png)
