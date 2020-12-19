@@ -23,7 +23,8 @@ The entire training dataset is stored. When a prediction is required, the k-most
 
 
 
-![decisiontree](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK6/Decision-Trees-2.png)
+![knearest](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/knearest.png)
+![knearest](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/k-nearest-neighbor-algorithm-for-machine-learning2.png)
 
 
 The dataset here has 6 different parameters , so we can use K nearest algorithm to feed any new/test data to this classifer and it would be able to predict the right class accordingly.
@@ -33,7 +34,11 @@ The dataset here has 6 different parameters , so we can use K nearest algorithm 
 K-Means Clustering is an unsupervised machine learning algorithm. We graph the relationship between the number of clusters and Within Cluster Sum of Squares (WCSS) then we select the number of clusters where the change in WCSS begins to level off (elbow method).
 It is  one of  the simplest unsupervised  learning  algorithms  that  solve  the well  known clustering problem. The procedure follows a simple and  easy  way  to classify a given data set  through a certain number of  clusters (assume k clusters) fixed apriori. The  main  idea  is to define k centers, one for each cluster. These centers  should  be placed in a cunning  way  because of  different  location  causes different  result. So, the better  choice  is  to place them  as  much as possible  far away from each other. The  next  step is to take each point belonging  to a  given data set and associate it to the nearest center. When no point  is  pending,  the first step is completed and an early group age  is done. At this point we need to re-calculate k new centroids as barycenter of  theclusters resulting from the previous step. After we have these k new centroids, a new binding has to be done  between  the same data set points  and  the nearest new center. A loop has been generated.
 
-![decisiontree](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK6/Decision-Trees-2.png)
+![kmeans](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/kmeans.png)
+
+
+![kmeans](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/k-means-clustering-algorithm-in-machine-learning.png)
+
 
 
 
