@@ -1,4 +1,17 @@
 # Task 6
+### Iris Flower Species Dataset
+
+In this tutorial we will use the Iris Flower Species Dataset.
+
+The Iris Flower Dataset involves predicting the flower species given measurements of iris flowers.
+
+It is a multiclass classification problem. The number of observations for each class is balanced. There are 150 observations with 4 input variables and 1 output variable. The variable names are as follows  :
+
+        Sepal length in cm.
+        Sepal width in cm.
+        Petal length in cm.
+        Petal width in cm.
+        Class
 ## Prediction using Decision Tree
 	•In this task we will use decision tree to make prediction and understand its working.!
 ![decisiontree](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK6/Task6.png)
