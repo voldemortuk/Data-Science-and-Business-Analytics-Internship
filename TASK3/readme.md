@@ -1,11 +1,11 @@
-# Task 2
+# Task 3
 ## About the Task
 
 	Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 	As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 	Suggest teams or players a company should endorse for its products.
 
-![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/Task3.png)
+![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/Task3.png)
 
 # About the dataset
 ###The dataset has 13 columns. Let’s get acquainted with the columns.
