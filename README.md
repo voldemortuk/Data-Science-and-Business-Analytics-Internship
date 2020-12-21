@@ -36,7 +36,7 @@ K-Means Clustering is an unsupervised machine learning algorithm. We graph the r
 
 
 
-# [Task 3](# [Task 6](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/tree/main/TASK3)
+# [Task 3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/tree/main/TASK3)
 ## About the Task
 
 	Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
