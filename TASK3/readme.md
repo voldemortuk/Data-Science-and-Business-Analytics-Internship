@@ -24,25 +24,25 @@
 
 ![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/top_cities.png)
 
-[Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/shipping_modes.png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/shipping_modes.png)
 
-[Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/Category_product.png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/Category_product.png)
 
-[Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/State.png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/State.png)
 
-[Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/Segments.png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/Segments.png)
 
-[Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/top_cities1.png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/top_cities1.png)
 
-[Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/top_states_byprofitst.png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/top_states_byprofitst.png)
 
-[Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual1png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual1png)
 
 
 [Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual.png)
 
 
-[Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual2png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual2png)
 
 # Observations:
 ### The following inferences can be made : 
