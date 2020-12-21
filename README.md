@@ -2,6 +2,8 @@
 # The Sparks Foundation 
 
 # [Task 1](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/tree/main/TASK1)
+![unsupervisedlearning](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK1/Task1.png)
+
 # LINEAR REGRESSION
 
 In statistics, linear regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables). The case of one explanatory variable is called simple linear regression.
@@ -24,14 +26,10 @@ The k-Nearest Neighbors algorithm or KNN for short is a very simple technique.
 The entire training dataset is stored. When a prediction is required, the k-most similar records to a new record from the training dataset are then located. From these neighbors, a summarized prediction is made.
 
 
-
-![knearest](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/knearest.png)
-
 # K means Clustering 
 
 K-Means Clustering is an unsupervised machine learning algorithm. We graph the relationship between the number of clusters and Within Cluster Sum of Squares (WCSS) then we select the number of clusters where the change in WCSS begins to level off (elbow method).
 
-![kmeans](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK2/kmeans.png)
 
 
 
@@ -43,11 +41,10 @@ K-Means Clustering is an unsupervised machine learning algorithm. We graph the r
 	As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 	Suggest teams or players a company should endorse for its products.
 
-![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/Task3.png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/Task3.png)
 
 
 
-![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual.png)
 
 
 # [Task 5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/tree/main/TASK5)
@@ -61,7 +58,6 @@ K-Means Clustering is an unsupervised machine learning algorithm. We graph the r
 ![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/Task5.png)
 
 
-![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/visualise.png)
 
 
 # [Task 6](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/tree/main/TASK6)
@@ -74,7 +70,6 @@ K-Means Clustering is an unsupervised machine learning algorithm. We graph the r
 A decision tree is a flowchart-like structure in which each internal node represents a "test" on an attribute (e.g. whether a coin flip comes up heads or tails), each branch represents the outcome of the test, and each leaf node represents a class label (decision taken after computing all attributes).
 
 
-![decisiontree](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK6/Decision-Trees-2.png)
 
 
 
