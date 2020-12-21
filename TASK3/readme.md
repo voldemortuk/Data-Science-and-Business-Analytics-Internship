@@ -36,13 +36,13 @@
 
 ![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/top_states_byprofits.png)
 
-![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual1png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual1.png)
 
 
 ![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual.png)
 
 
-![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual2png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual2.png)
 
 # Observations:
 ### The following inferences can be made : 
