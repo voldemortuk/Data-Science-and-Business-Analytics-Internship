@@ -1,11 +1,11 @@
-# Task 2
+# Task 5
 ## About the Task
 
 	Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 	As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 	Suggest teams or players a company should endorse for its products.
 
-![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/Screenshot%202020-12-21%20at%201.41.59%20PM.png)
+![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/Task5.png)
 
 # About the dataset
 ###The dataset has 18 columns. Let’s get acquainted with the columns.
@@ -30,16 +30,16 @@
 
 ## Visualisation
 
-![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/Unknown.png)
+![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/Teams.png)
 
-![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/Unknown-3.png)
-
-
-![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/Unknown-2.png)
+![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/top_players_ipl.png)
 
 
+![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/toss.png)
 
-![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/Screenshot%202020-12-21%20at%201.41.59%20PM.png)
+
+
+![Task5](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK5/visualise.png)
 
 # Observations:
 ### The following inferences can be made from the describe() method:
