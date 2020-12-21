@@ -34,12 +34,12 @@
 
 ![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/top_cities1.png)
 
-![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/top_states_byprofitst.png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/top_states_byprofits.png)
 
 ![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual1png)
 
 
-[Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual.png)
+![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual.png)
 
 
 ![Task3](https://github.com/voldemortuk/Data-Science-and-Business-Analytics-Internship/blob/main/TASK3/visual2png)
